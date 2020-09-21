@@ -1,0 +1,2 @@
+# python-qrcode
+qrcode label
