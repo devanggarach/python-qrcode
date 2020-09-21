@@ -1,6 +1,6 @@
 # python-qrcode
 ## qrcode label
-## size of label 1.5 inch 144pxx144px
+## size of label 1.5 inch 144px X 144px
 ## rotating image is also possible with PIL module like image.ROTATE_90
 ## here I have used PIL+OpenCV
 ___
